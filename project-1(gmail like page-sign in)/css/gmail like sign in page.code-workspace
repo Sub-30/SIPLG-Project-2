@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../IMAGE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gmail like sign in page"
+	}
+}
